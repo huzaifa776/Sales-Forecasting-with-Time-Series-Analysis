@@ -1,0 +1,22 @@
+artifact_path: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Sales%20Forecasting%20with%20Time-Series%20Analysis/mlruns/102817568184583786/models/m-163265799f784fb4802b1292d0c8c0de/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.5
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 3.0.5
+mlflow_version: 3.3.1
+model_id: m-163265799f784fb4802b1292d0c8c0de
+model_size_bytes: 1275401
+model_uuid: m-163265799f784fb4802b1292d0c8c0de
+prompts: null
+run_id: e571b431858b4d90ae80f827e70eb1a7
+utc_time_created: '2025-09-13 14:40:04.070093'

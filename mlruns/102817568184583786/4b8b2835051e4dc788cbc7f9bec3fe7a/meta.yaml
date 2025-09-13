@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Sales%20Forecasting%20with%20Time-Series%20Analysis/mlruns/102817568184583786/4b8b2835051e4dc788cbc7f9bec3fe7a/artifacts
+end_time: 1757774410970
+entry_point_name: ''
+experiment_id: '102817568184583786'
+lifecycle_stage: active
+run_id: 4b8b2835051e4dc788cbc7f9bec3fe7a
+run_name: casual-skink-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757774409256
+status: 3
+tags: []
+user_id: huzaifamahmood

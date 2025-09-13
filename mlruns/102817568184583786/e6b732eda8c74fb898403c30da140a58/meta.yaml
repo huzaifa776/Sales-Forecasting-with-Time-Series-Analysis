@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Sales%20Forecasting%20with%20Time-Series%20Analysis/mlruns/102817568184583786/e6b732eda8c74fb898403c30da140a58/artifacts
+end_time: 1757774436884
+entry_point_name: ''
+experiment_id: '102817568184583786'
+lifecycle_stage: active
+run_id: e6b732eda8c74fb898403c30da140a58
+run_name: optuna_optimization
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757774388419
+status: 3
+tags: []
+user_id: huzaifamahmood

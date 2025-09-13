@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Sales%20Forecasting%20with%20Time-Series%20Analysis/mlruns/102817568184583786/09eb3885f0ec44d1999893e6005aa7bc/artifacts
+end_time: 1757774403480
+entry_point_name: ''
+experiment_id: '102817568184583786'
+lifecycle_stage: active
+run_id: 09eb3885f0ec44d1999893e6005aa7bc
+run_name: adorable-skink-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757774401257
+status: 3
+tags: []
+user_id: huzaifamahmood

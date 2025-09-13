@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Sales%20Forecasting%20with%20Time-Series%20Analysis/mlruns/102817568184583786/e571b431858b4d90ae80f827e70eb1a7/artifacts
+end_time: 1757774405296
+entry_point_name: ''
+experiment_id: '102817568184583786'
+lifecycle_stage: active
+run_id: e571b431858b4d90ae80f827e70eb1a7
+run_name: puzzled-rat-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757774403482
+status: 3
+tags: []
+user_id: huzaifamahmood

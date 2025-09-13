@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Sales%20Forecasting%20with%20Time-Series%20Analysis/mlruns/102817568184583786/348580c04eaf40159a19f312a7d47d24/artifacts
+end_time: 1757774441196
+entry_point_name: ''
+experiment_id: '102817568184583786'
+lifecycle_stage: active
+run_id: 348580c04eaf40159a19f312a7d47d24
+run_name: model_comparison
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757774441191
+status: 3
+tags: []
+user_id: huzaifamahmood

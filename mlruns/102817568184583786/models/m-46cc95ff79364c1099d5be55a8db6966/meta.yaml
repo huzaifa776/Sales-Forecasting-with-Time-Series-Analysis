@@ -1,0 +1,10 @@
+artifact_location: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Sales%20Forecasting%20with%20Time-Series%20Analysis/mlruns/102817568184583786/models/m-46cc95ff79364c1099d5be55a8db6966/artifacts
+creation_timestamp: 1757774414872
+experiment_id: '102817568184583786'
+last_updated_timestamp: 1757774416239
+model_id: m-46cc95ff79364c1099d5be55a8db6966
+model_type: null
+name: model
+source_run_id: 0f3a1f49c000439c89f5e773b15ab653
+status: 2
+status_message: null

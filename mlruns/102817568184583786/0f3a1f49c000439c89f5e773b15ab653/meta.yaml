@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Sales%20Forecasting%20with%20Time-Series%20Analysis/mlruns/102817568184583786/0f3a1f49c000439c89f5e773b15ab653/artifacts
+end_time: 1757774416240
+entry_point_name: ''
+experiment_id: '102817568184583786'
+lifecycle_stage: active
+run_id: 0f3a1f49c000439c89f5e773b15ab653
+run_name: wise-shark-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757774410972
+status: 3
+tags: []
+user_id: huzaifamahmood
